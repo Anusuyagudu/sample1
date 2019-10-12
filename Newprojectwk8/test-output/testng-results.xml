@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10975" started-at="2019-10-12T07:05:15 EDT" finished-at="2019-10-12T07:05:26 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10975" started-at="2019-10-12T07:05:15 EDT" finished-at="2019-10-12T07:05:26 EDT">
+      <class name="Exercise.Acmelogin">
+        <test-method status="PASS" signature="ACME()[pri:0, instance:Exercise.Acmelogin@6c3152]" name="ACME" duration-ms="10922" started-at="2019-10-12T07:05:15 EDT" finished-at="2019-10-12T07:05:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACME -->
+      </class> <!-- Exercise.Acmelogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
